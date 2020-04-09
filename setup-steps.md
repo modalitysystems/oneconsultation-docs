@@ -46,7 +46,7 @@ Please federate your Microsoft Skype for Business / Microsoft Teams environment 
 
 ## Step 4: Grant permission to our Azure AD application
 
-As part of the initial on-boarding process, a OneConsultation Azure Actie Directory application is installed in your Azure tenent. This means that we can use Azure AD to “prove” that someone is a user from your somain and grant them access, without requiring them to enter another set of credentials. You can find more information on this [here](https://modalitysystems.github.io/oneconsultation-docs/auth.html)
+As part of the initial on-boarding process, a OneConsultation Azure Active Directory application is installed in your Azure tenent. This means that we can use Azure AD to “prove” that someone is a user from your somain and grant them access, without requiring them to enter another set of credentials. You can find more information on this [here](https://modalitysystems.github.io/oneconsultation-docs/auth.html)
 
 An administrator can provide consent for all users in the tenant, meaning that each user is not presented with their own consent box – this is a favorable user experience.
 

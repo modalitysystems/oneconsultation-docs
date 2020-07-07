@@ -19,7 +19,7 @@ Everything you need about what data is stored where, and how OneConsultation is 
 ## [Authentication Detail](auth.md)
 A deep dive into how the authentication process in OneConsultation works.
 
-## [Microsoft Skype for Business / Lync Environment & Compatability](clients.md)
+## [Microsoft Teams and Skype for Business Compatability](clients.md)
 Information about supported environments and clients that can be used with OneConsultation.
 
 ## [End-User Browser Compatability](browsers.md)

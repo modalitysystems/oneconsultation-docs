@@ -33,3 +33,9 @@ Answers to some FAQs on OneConsultation.
 
 ## [Troubleshooting guidance](troubleshooting.md)
 Experiencing issues with OneConsultation? Check here for some basic advice and fixes.
+
+## [Initial setup steps for Microsoft Teams users](teams-users-initial-setup.md)
+If you're using OneConsultation with Microsoft Teams, you'll need to follow this quick setup process before you use OneConsultation for the first time.
+
+## [Top Tips for Pilot Success](pilot-success.md) 
+Some practical advice for getting the most out of your OneConsultation pilot and onging usage. 

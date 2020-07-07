@@ -46,6 +46,11 @@ Things to check:
 
 This error code means that the web browser doesn't have access to use the camera and microphone. Please refresh the page, and when prompted, allow OneConsultation to access your device's camera and microphone. 
 
+### I'm using Chrome but still can't connect to OneConsultation 
+
+Check whether a Chrome extension called WebRTC Control is turned on - if so, this may be causing your issue. Turn off the extension and try again. 
+![Chrome extension](images/chrome-extension.png)
+
 
 ## O365 User Troubleshooting
 

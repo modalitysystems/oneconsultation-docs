@@ -42,7 +42,7 @@ Once you have your tenant ID, provide it to us to activate your account.
 
 ## Step 3: Federate with us
 
-Please federate your Microsoft Teams or Skype for Business environment with our bridging service by adding the domain **videosrv.net**. This is a Modality Systems owned domain which hosts the bridging service that powers OneConsultation. Microsoft Teams or Skype for users will connect with endpoints that are hosted on this service and with SIP addresses that end @videosrv.net.
+Please federate your Microsoft Teams or Skype for Business environment with our bridging service by adding the domain **onecvideo.net**. This is a Modality Systems owned domain which hosts the bridging service that powers OneConsultation. Microsoft Teams or Skype for users will connect with endpoints that are hosted on this service and with SIP addresses that end @onecvideo.net.
 
 ## Step 4: Grant permission to our Azure AD application
 

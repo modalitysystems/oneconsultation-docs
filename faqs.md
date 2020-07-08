@@ -1,5 +1,9 @@
 # Frequently Asked Questions 
 
+_**What web browsers can I use OneConsultation with on my device?**_
+
+You can find a list of supported browsers [here](browsers.md)
+
 _**What's to stop uninvited guests joining my virtual consultation?**_ 
 
 Each consultation takes place in a dynamically created meeting space created just for the purposes of that consultation, so there is no way for anyone else to join the consultation apart from the public user who created it, and any Office 365 users who have access to see it.

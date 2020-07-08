@@ -2,6 +2,10 @@
 
 Here are some basic tips for troubleshooting common issues with OneConsultation: 
 
+## My public user is having issues with OneConsultation 
+
+Guidance and troubleshooting for Public Users can be found [here](public-troubleshooting.md).
+
 ## One of my virtual waiting rooms is missing from my list
 
 Please check with your local IT that you are included in the AD Security group for access to that waiting room. 

@@ -50,6 +50,7 @@ Things to check:
 ## I've received Error Message 4 when trying to connect to the OneConsultation service
 
 This error code means that the web browser doesn't have access to use the camera and microphone. Please refresh the page, and when prompted, allow OneConsultation to access your device's camera and microphone. 
+If you are not prompted to allow access when you refresh the page, go to the browser settings on your device and allow access there. 
 
 
 ## I'm using Chrome but still can't connect to OneConsultation 

@@ -27,6 +27,17 @@ In general terms, OneConsultation should work with any **WebRTC-compatible** web
 
 \*\*Edge support for WebRTC was added in Windows Version 1709 (Fall Creators Update). Versions prior to this are not supported.
 
-
-
 To test a specific browser or operating system that is not in this list, please use the [WebRTC Testing Tool](https://test.webrtc.org/) in the first instance. If you require specific guidance or support, please contact your Account Manager or Support Team contact.
+
+## Supported Browsers - Admin Portal
+
+The Admin Portal has broad browser support for most functionality. Some features have additional requirements, outlined below.
+
+### Desktop Sharing
+
+Supported Browsers: 
+
+* Microsoft Edge v81+
+* Firefox v74+
+* Chrome v80+
+* Desktop Safari 13+

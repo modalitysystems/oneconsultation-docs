@@ -6,6 +6,8 @@ Recording in OneConsultation is an additional feature which can be enabled on a 
 
 Processing and storing video consumes Azure resource. Because recording processing and storage happens in your tenant, you are responsible for these costs. You can use the [Azure Pricing Calculator template](https://azure.com/e/19775a2a6ec843218a9b6c526ab1dc69) to calculate an approximation of costs. (Note that Part 2 of the cost calculation includes a 6x multipler, so for 10 hours of video, use a value of 60).
 
+Recording in OneConsultation is designed to be best-effort, intended for training and monitoring purposes. It is not designed as a WORM-compliant solution or with 100% recording coverage in mind. Once processed, media is available for retrieval via the Azure Storage Account (setup in step 1 below), using the Consultation ID as the reference key. No other meta-data about the recording (such as date/time, participants etc) is stored alongside it.
+
 ## Set up
 
 Follow the setup steps below, collating the following information which should be provided to Modality Systems in order to complete onboarding and enable recording. We recommend copying the table below and using it as a template during the remainder of the set up steps.

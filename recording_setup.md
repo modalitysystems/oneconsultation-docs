@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Recording in OneConsultation is an additional feature which can be enabled on a per-room basis as required. Recording is started on-demand via the Admin Portal, and uses an additional concurrency license. Recording processing and storage happens in the customer's own tenant and therefore requires additional setup before it can be enabled.
+Recording in OneConsultation is an additional feature which can be enabled on a per-room basis as required. Recording is started on-demand via the Admin Portal, and uses an additional concurrency license. Recording processing and storage happens in the your own tenant and therefore requires additional setup before it can be enabled.
+
+Processing and storing video consumes Azure resource. Because recording processing and storage happens in your tenant, you are responsible for these costs. You can use the [Azure Pricing Calculator template](https://azure.com/e/19775a2a6ec843218a9b6c526ab1dc69) to calculate an approximation of costs. (Note that Part 2 of the cost calculation includes a 6x multipler, so for 10 hours of video, use a value of 60).
 
 ## Set up
 

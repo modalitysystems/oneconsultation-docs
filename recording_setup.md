@@ -31,11 +31,16 @@ Make a note of the Resource Group where the Azure Media Services instance is loc
 
 Once the Azure Media Services instance has been created, navigate to it, and make a note of the Subscription ID (shown at the top of the Overview tab).
 
+![alt text](images/Recording-Setup1.png "Subscription ID shown in Azure Media Services instance")
+
+
 ### Step 2 - Create an Azure Active Directory App Registration
 
 Navigate to the Azure Portal and create a new ["Azure Active Directory App Registration"](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps).
 
 Make sure that the *Supported account types* section is set to "Accounts in this organizational directory only" and that *Redirect URI* is set to Web and left empty.
+
+![alt text](images/Recording-Setup2.png "Creating a new Azure Active Directory App Registration")
 
 Once the Registration has been created, navigate to it, and make a note of the Application ID, and Directory (tenant) ID.
 
@@ -46,6 +51,8 @@ Navigate to the *Certificates & secrets* tab and create a new Client secret. Mak
 Navigate back to the Azure Media Services instance. Choose   the *Access control (IAM)* tab.
 
 Click *Add a role assignment*. Choose a Role of "Contributor" and find the name of the application created in Step 2. Click Save.
+
+![alt text](images/Recording-Setup3.png "Azure Media Services Role Assignment")
 
 ## Post Setup
 

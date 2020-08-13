@@ -87,3 +87,7 @@ See our full [roadmap](roadmap.md) for details.
 _**Is there a recommended broadband speed for OneConsultation?**_
 
 Ofcom and the UK goverment recommend that a 'decent' broadband speed is for typical home usage is one capable of delivering a download speed of at least 10 Mbps and an upload speed of at least 1 Mbps. You can find more information on this in the [House of Commons library](https://commonslibrary.parliament.uk/constituency-casework/broadband-faqs/) and  advice on your rights around broadband on [Ofcom's website](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/broadband-uso-need-to-know)
+
+_**If I'm using 4G to connect to OneConsultation, how much mobile data would a consultation typically use?**_
+
+We estimate that a 30 minute consultation would use approximately 126mb of data. 

@@ -10,11 +10,11 @@ Each consultation takes place in a dynamically created meeting space created jus
 
 _**Is it possible to share my screen during a virtual consultation?**_ 
 
-Not yet, but we're working on this. See our [roadmap](roadmap.md) for details.
+We're looking into ways that we can enable screen sharing for users joining OneConsultation with Microsoft Teams. See our [roadmap](roadmap.md) for details. A WebRTC version of OneConsultation is available that has screen sharing functionality built-in, and we can discuss this further with you case by case. 
 
 _**Can OneConsultation record video calls?**_
 
-Not yet, but we're working on this. See our [roadmap](roadmap.md) for details.
+Yes, this is now possible. All recordings are stored in your tenant, so there are some additional technical pre requisites and Azure Media Services cost implications. See our [recording setup](recording_setup.md) page for more details.
 
 _**Where will the recordings be stored when this functionality is available?**_
 
@@ -22,7 +22,10 @@ Recordings will be stored in Azure Media Services in your tenant.
 
 _**Are group virtual consultations possible through OneConsultation?**_
 
-Not yet but we're working on this. See our [roadmap](roadmap.md) for details.
+Yes, group consultations are possible with up to 20 total participants. We have two types of group consultation room available:
+* Group session (all participants can see and hear each other)
+* Auditorium (all particpants can hear each other, but only the host is visible) 
+We can restrict access to these rooms via AD group, in the same way that we do for individual consultations. 
 
 _**Can OneConsultation send invitations via SMS?**_
 
@@ -38,7 +41,7 @@ No - OneConsultation is not intended to replace existing calendar management or 
   
 _**Can third parties be added into a virtual consultation? For example, can a consultation take place with an O365 user, a public user, and a translator?**_
 
-Not yet but we're working on this. See our [roadmap](roadmap.md) for details.
+Yes, it's possible to add third parties into a virtual consultation using secure Internal and External join links.  
   
 _**Can we customise the image on the public user login screen?**_
 

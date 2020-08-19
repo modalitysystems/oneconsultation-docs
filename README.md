@@ -8,7 +8,7 @@ For more general and non-technical information about the problems that OneConsul
 
 # I'm a Patient using OneConsultation 
 
-## How can I make sure I have a good video consultation? 
+## [How can I make sure I have a good video consultation?](patient-guidance.md) 
 Advice on how to make sure your video consultation is a success. 
 
 ## [Am I using a compatible browser?](browsers.md)

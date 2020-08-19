@@ -19,7 +19,7 @@ Quick fixes for common problems with video consultations
 
 # I'm a Clinician using OneConsultation 
 
-## How can I make sure I have a good video consultation? 
+## [How can I make sure I have a good video consultation?](clinician-guidance.md) 
 Advice on how to make sure your video consultation is a success. 
 
 ## [I'm using OneConsultation with Microsoft Teams for the first time](teams-users-initial-setup.md)

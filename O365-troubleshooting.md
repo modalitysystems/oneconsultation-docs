@@ -1,10 +1,10 @@
-# O365 User Troubleshooting
+# Clinician Troubleshooting
 
 Here are some basic tips for troubleshooting common issues with OneConsultation: 
 
-## My public user is having issues with OneConsultation 
+## My patient is having issues with OneConsultation 
 
-Guidance and troubleshooting for Public Users can be found [here](public-troubleshooting.md).
+Guidance and troubleshooting for patients can be found [here](public-troubleshooting.md).
 
 ## One of my virtual waiting rooms is missing from my list
 

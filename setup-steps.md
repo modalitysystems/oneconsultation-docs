@@ -95,3 +95,6 @@ To set up granular access, create or identify an Azure Active Directory Security
 Make a note of the *Object ID* and provide this information to us when we set up your new room (or to change an existing room setting). 
 
 **Be sure to select a *Security Group* and not any other type of group.**
+
+## Optional Step 8: Set up steps for recordings 
+To enable consultation recordings, please see the additional [setup steps required here](recording_setup.md).

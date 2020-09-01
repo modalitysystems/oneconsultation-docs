@@ -42,6 +42,9 @@ About OneConsultation, the problems it solves and how it integrates with your ex
 ## [Setup Steps](setup-steps.md)
 How the setup and on-boarding process works, from first contact to fully-running service.
 
+## [Setup steps for OneConsultation recordings](recording_setup.md)
+An outline of the additional setup steps required to enable recordings in OneConsultation
+
 ## [Data Security & Service Resiliancy](security_and_resiliancy.md)
 Everything you need about what data is stored where, and how OneConsultation is built for scale.
 
@@ -62,6 +65,8 @@ Some practical advice for getting the most out of your OneConsultation pilot and
 
 ## [Frequently Asked Questions](faqs.md)
 Answers to some FAQs on OneConsultation. 
+
+
 
 
 

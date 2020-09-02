@@ -7,7 +7,7 @@
 * Usage reporting enhancements (in Power BI) 
 
 # Things we're investigating 
-These ideas have been given to us by customers and users of OneConsultation. Features will be moved to the roadmap pending results of the investiation 
+These ideas have been given to us by customers and users of OneConsultation. Features will be moved to the roadmap pending results of the investigation 
 
 * A OneConsultation Microsoft Teams app
 * Screen sharing when using OneConsultation with Microsoft Teams 

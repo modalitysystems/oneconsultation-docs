@@ -1,4 +1,4 @@
-# Public User Troubleshooting
+# Help - I'm having trouble using OneConsultation 
 
 Before using OneConsultation for the first time, we recommend making a test call using the button provided on the virtual waiting room. This will help determine the quality of your connection. 
 If you experience issues during the test call, the problem is likely to be internet connection / device related. 
@@ -52,6 +52,10 @@ Things to check:
 This error code means that the web browser doesn't have access to use the camera and microphone. Please refresh the page, and when prompted, allow OneConsultation to access your device's camera and microphone. 
 If you are not prompted to allow access when you refresh the page, go to the browser settings on your device and allow access there. 
 
+## I'm using an IOS device 
+
+There are some errors specific to IOS devices. 
+Here's our advice for [IOS camera settings troubleshooting](ios134error.md) and [IOS audio settings troubleshooting](iosAudioIssue.md).
 
 ## I'm using Chrome but still can't connect to OneConsultation 
 

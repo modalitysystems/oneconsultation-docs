@@ -5,6 +5,8 @@
 # :hourglass_flowing_sand: Coming next in 2020
 
 * Usage reporting enhancements (in Power BI) 
+* Microsoft Teams call-back (alternative join method)
+* Group breakout rooms
 
 # Things we're investigating 
 These ideas have been given to us by customers and users of OneConsultation. Features will be moved to the roadmap pending results of the investigation 

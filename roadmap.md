@@ -5,6 +5,10 @@
 # :hourglass_flowing_sand: Coming next in 2020
 * Microsoft Teams call-back (alternative join method)
 * Group breakout rooms
+* Links to video consultation guidance and troubleshooting tips on patient portals 
+* Disable 'remove' button on appointment card for in-progress consultations
+* Links to video consultation guidance and troubleshooting tips on 'help' area of admin portal 
+* Waiting room broadcast 
 
 # Things we're investigating 
 These ideas have been given to us by customers and users of OneConsultation. Features will be moved to the roadmap pending results of the investigation 

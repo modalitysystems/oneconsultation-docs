@@ -1,10 +1,10 @@
 # OneConsultation Reporting: Locally hosted database
 
 ## Introduction 
-By default, usage and quality reports are hosted by Modality Systems and accessible to you via PowerBI. Data is securely stored in Microsoft Azure, using sharded databases to ensure data separation. Any personally identifable data is removed after 90 days, and data is archived to cold store after 120 days. Archived data is not available in PowerBI reports to ensure report performance, but can be accessed on demand via our Support Team.
-However, customers may wish to host this reporting data themsevles. This document provides the steps for achieveing this. 
+By default, usage and quality reports are hosted by Modality Systems and accessible to you via PowerBI. Data is securely stored in Microsoft Azure, using sharded databases to ensure data separation. Any personally identifiable data is removed after 90 days, and data is archived to cold store after 120 days. Archived data is not available in PowerBI reports to ensure report performance, but can be accessed on demand via our Support Team.
+However, customers may wish to host this reporting data themselves. This document provides the steps for achieving this. 
 
-> Before beginning this process please speak your OneConsultation Account Manager as configuration steps will need to be applied to account, and sequenced with the changes descrived below, in order to prevent potential data loss.
+> Before beginning this process please speak your OneConsultation Account Manager as configuration steps will need to be applied to account, and sequenced with the changes described  below, in order to prevent potential data loss.
 
 ## Step 1: Provision a SQL Database
 

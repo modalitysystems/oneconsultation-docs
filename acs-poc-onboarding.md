@@ -10,7 +10,7 @@ These steps can be performed alongside your existing OneConsultation rooms. You 
 
 ## Step 1: Re-consent to OneConsultation Permissions
 
-Whilst logged in as a tenant admin, navigate to: [https://login.microsoftonline.com/common/oauth2/authorize?resource=https://graph.windows.net&response_type=code&client_id=5637a6d7-9ce0-4788-b498-e96008b4ccb9&redirect_uri=https://admin.oneconsultation.net&scope=openid&prompt=admin_consent](https://login.microsoftonline.com/common/oauth2/authorize?resource=https://graph.windows.net&response_type=code&client_id=5637a6d7-9ce0-4788-b498-e96008b4ccb9&redirect_uri=https://admin.oneconsultation.net&scope=openid&prompt=admin_consent) and review and accept the permissions reqested for the OneConsultation application. Note that there is an additional permission required in order to create online meetings:
+Whilst logged in as a tenant admin, navigate to: [https://login.microsoftonline.com/common/oauth2/authorize?resource=https://graph.windows.net&response_type=code&client_id=5637a6d7-9ce0-4788-b498-e96008b4ccb9&redirect_uri=https://admin.oneconsultation.net&scope=openid&prompt=admin_consent](https://login.microsoftonline.com/common/oauth2/authorize?resource=https://graph.windows.net&response_type=code&client_id=5637a6d7-9ce0-4788-b498-e96008b4ccb9&redirect_uri=https://admin.oneconsultation.net&scope=openid&prompt=admin_consent). Review and accept the permissions reqested for the OneConsultation application. Note that there is an additional permission required in order to create online meetings:
 
 ![OneConsultation Permissions](https://raw.githubusercontent.com/modalitysystems/oneconsultation-docs/master/images/2021-02-11%2013_11_19-Window.png "OneConsultation Permission Request")
 

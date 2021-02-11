@@ -12,6 +12,8 @@ These steps can be performed alongside your existing OneConsultation rooms. You 
 
 Whilst logged in as a tenant admin, navigate to: https://login.microsoftonline.com/common/oauth2/authorize?resource=https://graph.windows.net&response_type=code&client_id=5637a6d7-9ce0-4788-b498-e96008b4ccb9&redirect_uri=https://admin.oneconsultation.net&scope=openid&prompt=admin_consent and review and accept the permissions reqested for the OneConsultation application. Note that there is an additional permission required in order to create online meetings:
 
+![OneConsultation Permissions](https://raw.githubusercontent.com/modalitysystems/oneconsultation-docs/master/images/2021-02-11%2013_11_19-Window.png "OneConsultation Permission Request")
+
 Once you have accept these permissions you will be re-directed to the OneConsultation Admin Portal. Ensure you are still able to log in to the Admin Portal.
 
 ### Step 2: Nominate a service account for meeting creation
@@ -40,3 +42,6 @@ Once these steps have been completed, provide the User (Object) ID when requeste
 ## Will the service account show up anywhere?
 
 The service account is used to create the Microsoft Teams meetings used for consultations. The service account is NOT added to any meetings, but as the meeting owner is shown by default in the "Others from chat" section as an invitation suggestion. Bear this in mind when choosing a name for the service account.
+
+![Service Account Name shown in Teams meeting](https://raw.githubusercontent.com/modalitysystems/oneconsultation-docs/master/images/2021-02-11%2014_54_40-ONECONSULTATION21de90fa-a517-4e8d-a5be-72845603a058%20_%20Microsoft%20Teams.png "Service account name shown in Teams meeting")
+

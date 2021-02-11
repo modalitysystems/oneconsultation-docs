@@ -33,3 +33,10 @@ New-CsApplicationAccessPolicy -Identity OneConsultation-Meetings -AppIds "5637a6
 Grant-CsApplicationAccessPolicy -PolicyName OneConsultation-Meetings -Identity "SERVICE_USER_ID"
 ```
 
+> If the service user is newly created, it can take up to 24 hours before the User ID is recognised by the Grant-CsApplicationAccessPolicy cmdlet.
+
+Once these steps have been completed, provide the User (Object) ID when requested in order to complete your setup.
+
+## Will the service account show up anywhere?
+
+The service account is used to create the Microsoft Teams meetings used for consultations. The service account is NOT added to any meetings, but as the meeting owner is shown by default in the "Others from chat" section as an invitation suggestion. Bear this in mind when choosing a name for the service account.

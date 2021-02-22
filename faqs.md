@@ -45,7 +45,7 @@ Yes, it's possible to add third parties into a virtual consultation using secure
   
 _**Can we customise the image on the public user login screen?**_
 
-Yes, as long as the image is hosted somewhere by you, this can be whatever you like. 
+Yes, if you provide us with a hi res image, we can resize and host it for you. 
   
 _**Can we customise the image that a public user sees while they are waiting for their consultation to begin?**_
 

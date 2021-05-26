@@ -47,6 +47,11 @@ Grant-CsApplicationAccessPolicy -PolicyName OneConsultation-Meetings -Identity "
 
 > If the service user is newly created, it can take up to 24 hours before the User ID is recognised by the Grant-CsApplicationAccessPolicy cmdlet.
 
+## Step 5: Ensure your network is optimised & configured to use Azure Communication Services
+
+Review the guidance in the document [Ensure high-quality media in Azure Communication Services](https://docs.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/network-requirements), paying particular attention to the section "Firewall Configuration" which details both IP and port ranges that need to be white-listed in order to deliver high-quality multimedia experiences. 
+
+
 Once these steps have been completed, provide the User (Object) ID when requested in order to complete your setup.
 
 

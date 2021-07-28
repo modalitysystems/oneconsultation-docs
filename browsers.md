@@ -1,4 +1,4 @@
-# End User Browser Compatability
+# End User Browser Compatibility
 
 OneConsultation has been designed to be both simple to user and accessible to as many people as possible.
 

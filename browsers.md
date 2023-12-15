@@ -30,6 +30,8 @@ In general terms, OneConsultation should work with any **WebRTC-compatible** web
 
 To test a specific browser or operating system that is not in this list, please use the [WebRTC Testing Tool](https://test.webrtc.org/) in the first instance. If you require specific guidance or support, please contact your Account Manager or Support Team contact.
 
+Azure Communication [Known Issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/known-issues) 
+
 ## Supported Browsers - Admin Portal
 
 The Admin Portal has broad browser support for most functionality. Some features have additional requirements, outlined below.

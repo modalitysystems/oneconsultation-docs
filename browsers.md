@@ -14,15 +14,25 @@ In general terms, OneConsultation should work with any **WebRTC-compatible** web
 
 | Device (OS)        | Browser           | Works with OneConsultation?  |
 | ------------- |:-------------:| -----:|
-| iPhone (iOS 11+)      | Safari | Yes |
+| iPhone (iOS 11+)      | Safari |   Yes |
 | iPad (iOS 11+)      | Safari      |   Yes |
-| iPhone/iPad (iOS 11+)  | Other browsers   |  No\* |      
-| PC (Windows) | Chrome      |    Yes |
-| PC (Windows) | Firefox      |    Yes |
-| PC (Windows) | Edge\*\*      |    Yes |
-| PC (Windows) | Internet Explorer      |    No |
-| Android | Samsung Browser      |    No |
-| Android | Chrome Browser      |    Yes |
+| iPhone/iPad (iOS 11+)  | Chrome   |   No\* | 
+| iPhone/iPad (iOS 11+)  | Firefox   |  No\* | 
+| iPhone/iPad (iOS 11+)  | Edge\*\*   |  No\* | 
+| iPhone/iPad (iOS 11+)  | Internet explorer   | No\* | 
+| iPhone/iPad (iOS 12+)  | Chrome   | Yes | 
+| iPhone/iPad (iOS 12+)  | Firefox   | Yes | 
+| iPhone/iPad (iOS 12+)  | Edge\*\*   | Yes | 
+| iPhone/iPad (iOS 12+)  | Internet explorer   | No\* | 
+| PC (Windows) | Chrome      |   Yes |
+| PC (Windows) | Firefox      |   Yes |
+| PC (Windows) | Edge\*\*      |   Yes |
+| PC (Windows) | Internet Explorer      |   No\* |
+| Android | Samsung Browser      |   No* |
+| Android | Chrome Browser      |   Yes |
+| Android | Firefox      |   Yes |
+| Android | Edge\*\*      |   Yes |
+| Android | Internet Explorer      |   No\* |
 
 \* Apple does not extend support for camera and microphone use in browsers other than Safari. [Ref](http://www.openradar.me/33571214)
 
